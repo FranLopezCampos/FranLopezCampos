@@ -9,27 +9,21 @@
 
 ## 🛠️ Tecnologías y Herramientas
 
-- **Lenguajes y Frameworks:**
-  - Nest.js
-  - Flutter & Dart
-  - GraphQL
-  - Prisma
-  - .NET & C#
-  - Java
-  - React
-  - TypeScript
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![Prisma](https://img.shields.io/badge/prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Stripe](https://img.shields.io/badge/stripe-%23646CFF.svg?style=for-the-badge&logo=stripe&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/digitalocean-%230167ff.svg?style=for-the-badge&logo=digitalocean&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-- **Bases de Datos:**
-  - PostgreSQL
-  - Redis
-
-- **DevOps y Herramientas de Implementación:**
-  - Docker
-  - DigitalOcean
-  - Azure
-
-- **Pagos:**
-  - Stripe
 
 ---
 
@@ -80,6 +74,14 @@ Universidad de Málaga, 2019–2023
 
 - **Email:** franlopezcampo@gmail.com
 - **Teléfono:** +34 688 37 56 24
+
+---
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![Fran Lopez Campo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franlopezcampo&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franlopezcampo&layout=compact&theme=dark)
 
 ---
 
