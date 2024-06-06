@@ -78,12 +78,5 @@ Universidad de Málaga, 2019–2023
 
 ---
 
----
-
-## 📊 Estadísticas de GitHub
-
-![Fran Lopez Campo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranLopezCampos&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FranLopezcampos&layout=compact&theme=dark)
-
----
 
 ¡Gracias por visitar mi perfil de GitHub!
