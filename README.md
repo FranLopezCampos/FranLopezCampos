@@ -17,6 +17,7 @@
   - .NET & C#
   - Java
   - React
+  - TypeScript
 
 - **Bases de Datos:**
   - PostgreSQL
