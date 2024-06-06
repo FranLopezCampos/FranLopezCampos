@@ -1,8 +1,8 @@
-# 👋 Hola, soy Fran Lopez Campo
+# 👋 Hola, soy José Francisco Lopez Campos
 
 **Computer Science Engineer | Málaga, Spain**
 
-[![Linkedin Badge](https://img.shields.io/badge/-FranLopezCampo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franlopezcampo/)](https://www.linkedin.com/in/franlopezcampo/)
+[![Linkedin Badge](https://img.shields.io/badge/-FranLopezCampo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franlopezcampo/)](https://www.linkedin.com/in/josefranciscolopezcampos/)
 [![Gmail Badge](https://img.shields.io/badge/-franlopezcampo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:franlopezcampo@gmail.com)](mailto:franlopezcampo@gmail.com)
 
 ---
