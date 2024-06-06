@@ -10,6 +10,7 @@
 ## 🛠️ Tecnologías y Herramientas
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/graphql-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
@@ -81,7 +82,7 @@ Universidad de Málaga, 2019–2023
 
 ## 📊 Estadísticas de GitHub
 
-![Fran Lopez Campo's GitHub stats](https://github-readme-stats.vercel.app/api?username=franlopezcampo&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franlopezcampo&layout=compact&theme=dark)
+![Fran Lopez Campo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FranLopezCampos&show_icons=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franlopezcampo&layout=compact&theme=dark)
 
 ---
 
