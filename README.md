@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Francisco Lopez Campos
+# 👋 Hello everyone! 
 
 **Computer Science Engineer | Málaga, Spain**
 
@@ -7,7 +7,7 @@
 
 ---
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Technologies
 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -29,33 +29,34 @@
 
 ---
 
-## 📈 Experiencia Profesional
+## 📈 Work Experience
 
 ### Software Engineer at Fitnext
-**Agosto 2023 – Presente**
+**August 2023 – Today**
 
-- Diseño e implementación de nuevas características de API.
-- Implementación de nuevas funcionalidades y resolución de errores en la aplicación móvil.
-- Desarrollo de pruebas unitarias y end-to-end (E2E).
-- Migración de funcionalidades de API heredadas a una nueva base de código.
+- Design and implement new API features
+- Implement new functionalities and resolve bugs on the mobile app
+- Unit and E2E tests implementation
+- Migration of legacy API functionalities to the new codebase
+
 
 ### Software Engineer Internship at Avanade
-**Marzo 2023 – Agosto 2023**
+**March 2023 – August 2023**
 
-- Introducción a tecnologías de Microsoft.
-- Desarrollo de nuevos endpoints de API para una plataforma bancaria.
-
----
-
-## 🎓 Educación
-
-**Grado en Ingeniería Informática**
-
-Universidad de Málaga, 2019–2023
+- Introduction to Microsoft technologies
+- Develop new API endpoints for a banking platform
 
 ---
 
-## 📚 Cursos
+## 🎓 Education
+
+**Bachelor of Science in Computer Engineering**
+
+ University of Malaga, 2019–2023
+
+---
+
+## 📚 Courses
 
 - **NestJS: Desarrollo backend escalable con Node**
 - **NestJS + GraphQL: Evoluciona tus APIs**
@@ -65,14 +66,14 @@ Universidad de Málaga, 2019–2023
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- **Español:** Nativo
+- **Español:** Native
 - **Inglés:** Cambridge B2 First
 
 ---
 
-## 📫 Contáctame
+## 📫 Contact me
 
 - **Email:** franlopezcampo@gmail.com
 - **Teléfono:** +34 688 37 56 24
@@ -80,4 +81,4 @@ Universidad de Málaga, 2019–2023
 ---
 
 
-¡Gracias por visitar mi perfil de GitHub!
+¡Thanks for visiting my GitHub Profile!
